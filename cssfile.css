@@ -253,6 +253,16 @@ main {
 }
 
 @media only screen and (max-width:425px) {
+   .box {
+
+    background-color: beige;
+    width: 450px;
+    height: 690px;
+    border: 2px solid rgb(146, 146, 77);
+    border-radius: 15px;
+
+
+}
     .box2 {
 
         padding-top: 15px;
